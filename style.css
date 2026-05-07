@@ -172,6 +172,7 @@ ul { list-style: none; }
 .nav-cta {
   border: 1px solid currentColor !important;
   padding: 9px 20px;
+  white-space: nowrap;
 }
 
 .nav-toggle {
